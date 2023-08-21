@@ -1,5 +1,5 @@
 ## Apenas um Joguinho da memória com temática Game of Thrones
 
-## acesse:
+acesse:
 
 https://alinenasc1mento.github.io/gotjogodamemoria/
